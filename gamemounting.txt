@@ -1,0 +1,33 @@
+"gamemounting.txt"
+{
+	"Half-Life: Source"
+	{
+		"appid"		"280"
+		"required"	"1"
+		
+		"paths"
+		{
+			"local"			"hl1"
+			"local"			"hl1/hl1_sound_vo_english.vpk"
+			"local"			"hl1/hl1_pak.vpk"
+			
+			"dedicated"		"hl1/hl1_sound_vo_english.vpk"
+			"dedicated"		"hl1/hl1_pak.vpk"
+		}
+	}
+	"Half-Life Deathmatch: Source"
+	{
+		"appid"		"360"
+		"required"	"0"
+		
+		"paths"
+		{
+			"local"			"hl1mp"
+			"local"			"hl1mp/hl1mp_sound_vo_english.vpk"
+			"local"			"hl1mp/hl1mp_pak.vpk"
+			
+			"dedicated"		"hl1mp/hl1mp_sound_vo_english.vpk"
+			"dedicated"		"hl1mp/hl1mp_pak.vpk"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+bin\dx_proxy.dll
+c:\program files (x86)\steam\steamapps\common\half-life 2\bin\\tier0.dll
+c:\program files (x86)\steam\steamapps\common\half-life 2\bin\\vstdlib.dll
+common_fxc.h
+common_hlsl_cpp_consts.h
+common_pragmas.h
+common_ps_fxc.h
+common_vs_fxc.h
+common_vertexlitgeneric_dx9.h
+common_lightmappedgeneric_fxc.h
+common_flashlight_fxc.h
+common_parallax.h
+c:\program files (x86)\steam\steamapps\common\half-life 2\bin\\shadercompile.exe
+c:\program files (x86)\steam\steamapps\common\half-life 2\bin\\shadercompile_dll.dll
+hl1chrome_vs20.fxc
+hl1chrome_ps20b.fxc

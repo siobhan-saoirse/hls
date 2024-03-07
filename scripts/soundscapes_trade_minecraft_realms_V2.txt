@@ -1,0 +1,83 @@
+"Minecraft.SwedenLoop"
+{
+	"dsp" "1"
+	
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"	"Ambient/CCSweden.mp3"
+	}
+}
+
+"Minecraft.Bayou"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"		"ambient/CCBayouBoogie.mp3"
+	}
+}
+
+"Minecraft.Jungle"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"		"ambient/CCJungleJapes.mp3"
+	}
+}
+
+"Minecraft.Mario"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"		"ambient/CCSuperMario.mp3"
+	}
+}
+
+"Minecraft.Dedede"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"		"ambient/CCKingDedede.mp3"
+	}
+}
+
+"Minecraft.Gym"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"		"ambient/CCJohtoGym.mp3"
+	}
+}
+
+"Minecraft.Polaris"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"		"ambient/CCPolarisStory.mp3"
+	}
+}
