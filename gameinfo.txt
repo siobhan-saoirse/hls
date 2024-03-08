@@ -1,7 +1,7 @@
 
 "GameInfo"
 {
-	game 		"Half-Life: Source++"
+	game 		"Half-Life++"
 	title 		"HALF-LIFE"
 	type		multiplayer_only
 	icon	"resource/game"
