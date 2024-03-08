@@ -12,6 +12,7 @@ sound.cache
 *.ain
 modelsounds.cache
 Gamestate.txt
+game_hd.txt
 textwindow_temp.html
 
 # crash dumps
