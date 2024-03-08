@@ -99,16 +99,6 @@
 // Item
 //=================================================//
 
-"Item.materialize"
-{
-	"channel"	"CHAN_ITEM"
-	"volume"	"1.0"
-	"soundlevel"  	"SNDLVL_75dB"
-	"pitch"		"175"
-
-	"wave"	"items/suitchargeok1.wav"
-}
-
 "Item.Pickup"
 {
 	"channel"	"CHAN_ITEM"
@@ -1920,6 +1910,62 @@
 	}
 }
 
+"Headcrab.Idle"
+{
+    "channel"   "CHAN_VOICE"
+    "volume"    "VOL_NORM"
+    "soundlevel"    "SNDLVL_80db"
+    "pitch"     "PITCH_NORM"
+    "rndwave"
+    {
+        "wave"      "headcrab/hc_idle1.wav"
+        "wave"      "headcrab/hc_idle2.wav"
+        "wave"      "headcrab/hc_idle3.wav"
+        "wave"      "headcrab/hc_idle4.wav"
+        "wave"      "headcrab/hc_idle5.wav"
+    }
+}
+
+"Headcrab.Die"
+{
+    "channel"   "CHAN_VOICE"
+    "volume"    "VOL_NORM"
+    "soundlevel"    "SNDLVL_80db"
+    "pitch"     "PITCH_NORM"
+    "rndwave"
+    {
+        "wave"      "headcrab/hc_die1.wav"
+        "wave"      "headcrab/hc_die2.wav"
+    }
+}
+
+"Headcrab.Alert"
+{
+    "channel"   "CHAN_VOICE"
+    "volume"    "VOL_NORM"
+    "soundlevel"    "SNDLVL_80db"
+    "pitch"     "PITCH_NORM"
+    //"rndwave"
+    //{
+        "wave"      "headcrab/hc_alert1.wav"
+    //  "wave"      "headcrab/hc_alert2.wav"
+    //}
+}
+
+"Headcrab.Pain"
+{
+    "channel"   "CHAN_VOICE"
+    "volume"    "VOL_NORM"
+    "soundlevel"    "SNDLVL_80db"
+    "pitch"     "PITCH_NORM"
+    "rndwave"
+    {
+        "wave"      "headcrab/hc_pain1.wav"
+        "wave"      "headcrab/hc_pain2.wav"
+        "wave"      "headcrab/hc_pain3.wav"
+    }
+}
+
 "HGrunt.Reload"
 {
 	"channel"	"CHAN_WEAPON"
@@ -2725,7 +2771,7 @@
 
 "Vortigaunt.Pain"
 {
-	"channel"	"CHAN_WEAPON"
+	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
 	"soundlevel"	"SNDLVL_80db"
 	"rndwave"
@@ -2737,7 +2783,7 @@
 
 "Vortigaunt.Die"
 {
-	"channel"	"CHAN_WEAPON"
+	"channel"	"CHAN_VOICE"
 	"volume"	"VOL_NORM"
 	"soundlevel"	"SNDLVL_90db"
 	"rndwave"
@@ -2909,7 +2955,10 @@
 	"soundlevel"	"SNDLVL_NORM"
 	"rndwave"
 	{
-		"wave"		"items/null.wav"
+		"wave"      "player/pl_swim1.wav"
+        	"wave"      "player/pl_swim2.wav"
+        	"wave"      "player/pl_swim3.wav"
+        	"wave"      "player/pl_swim4.wav"
 	}
 }
 
@@ -3886,8 +3935,8 @@
 "Player.DrownStart"
 {
 	"channel"	"CHAN_VOICE"
-	"volume"	"0.5"
-	"soundlevel"  "SNDLVL_75dB"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
 
 	"wave"	"player/pl_wade1.wav"
 }
