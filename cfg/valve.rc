@@ -16,4 +16,5 @@ stuffcmds
 startupmenu
 
 // FOR XBOX CERT 
-//sv_unlockedchapters 99
+sv_unlockedchapters 99
+wait 1000;play music/gamestartup.mp3

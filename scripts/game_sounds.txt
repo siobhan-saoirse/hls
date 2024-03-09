@@ -3447,9 +3447,7 @@
 	"pitch"	  "95,110"
 	"rndwave"
 	{
-		"wave"	"physics/metal/weapon_impact_hard1.wav"
-		"wave"	"physics/metal/weapon_impact_hard2.wav"
-		"wave"	"physics/metal/weapon_impact_hard3.wav"
+		"wave"	"items/weapondrop1.wav"
 	}
 }
 
