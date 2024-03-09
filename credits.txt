@@ -1,2 +1,3 @@
 == Credits ==
 Half-Life Source Fixed Creator - Code, models, materials, sounds and more
+Ragdoll Physics for playermodels by Shadowysn - https://gamebanana.com/mods/239195
