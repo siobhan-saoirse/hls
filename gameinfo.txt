@@ -3,7 +3,7 @@
 {
 	game 		"Half-Life++"
 	title 		"HALF-LIFE"
-	type		multiplayer_only
+	type		singleplayer_only
 	icon	"resource/game"
 	supportsvr	1
 

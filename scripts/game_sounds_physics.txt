@@ -35,7 +35,7 @@
 "Default.BulletImpact"
 {
 	"soundlevel"		"SNDLVL_75dB"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"volume"			"0.7"
 	"rndwave"
 	{
@@ -157,7 +157,7 @@
 "SolidMetal.BulletImpact"
 {
 	"soundlevel"		"SNDLVL_75dB"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"volume"		"0.7"
 	"rndwave"
 	{
@@ -225,7 +225,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"		"physics/surfaces/sand_impact_bullet1.wav"
@@ -377,7 +377,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.5"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"		"physics/metal/metal_sheet_impact_bullet1.wav"
@@ -451,7 +451,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/surfaces/tile_impact_bullet1.wav"
@@ -491,7 +491,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"player/footsteps/slosh1.wav"
@@ -656,7 +656,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/glass/glass_impact_bullet1.wav"
@@ -764,7 +764,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/glass/glass_pottery_break1.wav"
@@ -779,7 +779,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/glass/glass_impact_bullet1.wav"
@@ -848,7 +848,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"		"physics/concrete/concrete_impact_bullet1.wav"
@@ -1082,7 +1082,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"		"player/footsteps/chainlink1.wav"
@@ -1137,7 +1137,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"		"physics/metal/chain_impact_hard1.wav"
@@ -1304,7 +1304,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/surfaces/sand_impact_bullet1.wav"
@@ -1353,7 +1353,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/surfaces/sand_impact_bullet1.wav"
@@ -1384,7 +1384,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/flesh/flesh_squishy_impact_hard1.wav"
@@ -1407,7 +1407,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"		"physics/metal/metal_sheet_impact_bullet1.wav"
@@ -1662,7 +1662,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/metal/metal_sheet_impact_bullet1.wav"
@@ -1726,7 +1726,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/metal/soda_can_impact_hard1.wav"
@@ -1839,7 +1839,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"1.0"
-	"pitch"			"PITCH_NORM"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave"	"physics/plaster/ceiling_tile_impact_bullet1.wav"
@@ -2372,8 +2372,8 @@
 {
 	"channel"		"CHAN_BODY"
 	"soundlevel"	"SNDLVL_90dB"
-	"pitch"		"PITCH_NORM"
 	"volume"	"1.0"
+	"pitch"			"96,105"
 	"rndwave"
 	{
 		"wave" "physics/cardboard/cardboard_box_impact_bullet1.wav"
@@ -2910,7 +2910,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"		"96,104"
 	"rndwave"
 	{
 		"wave"	"physics/wood/wood_solid_impact_bullet1.wav"
@@ -3023,7 +3023,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"		"96,104"
 	"rndwave"
 	{
 		"wave"	"physics/wood/wood_box_impact_bullet1.wav"
@@ -3205,7 +3205,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"		"96,104"
 	"rndwave"
 	{
 		"wave"	"physics/wood/wood_box_impact_bullet1.wav"
@@ -3295,7 +3295,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"		"96,104"
 	"rndwave"
 	{
 		"wave"	"physics/wood/wood_solid_impact_bullet1.wav"
@@ -3446,7 +3446,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"		"96,104"
 	"rndwave"
 	{
 		"wave"	"physics/wood/wood_box_impact_bullet1.wav"
@@ -3809,7 +3809,7 @@
 {
 	"soundlevel"		"SNDLVL_75dB"
 	"volume"		"0.7"
-	"pitch"			"PITCH_NORM"
+	"pitch"		"96,104"
 	"rndwave"
 	{
 		"wave"	"physics/plastic/plastic_box_impact_bullet5.wav"

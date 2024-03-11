@@ -2417,6 +2417,11 @@
 		"wave"		"scientist/sci_pain3.wav"
 		"wave"		"scientist/sci_pain4.wav"
 		"wave"		"scientist/sci_pain5.wav"
+		"wave"		"scientist/sci_pain6.wav"
+		"wave"		"scientist/sci_pain7.wav"
+		"wave"		"scientist/sci_pain8.wav"
+		"wave"		"scientist/sci_pain9.wav"
+		"wave"		"scientist/sci_pain10.wav"
 	}
 }
 
