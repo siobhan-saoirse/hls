@@ -3,7 +3,6 @@
 	"1"
 	{
 		"label" "#GameUI_GameMenu_ResumeGame"
-		"InGameOrder" "0"
 		"OnlyInGame" "1"
 	}
 	"2"
@@ -48,9 +47,8 @@
 	}	
 	"6_1"
 	{
-		"label" "NEW GAME - RESIZED MAPS"
+		"label" "New Game - Resized Maps"
 		"command" "engine EnableRMPanel"
-		"InGameOrder" "60"
 		"notmulti" "1"
 	}
 	"6"
@@ -70,13 +68,11 @@
 //	{
 //		"label" "#GameUI_GameMenu_Achievements"
 //		"command" "OpenAchievementsDialog"
-//		"InGameOrder" "70"
 //	}
 //         "8" 
 //	{
 //		"label" "#GameUI_Controller"
 //		"command" "OpenControllerDialog"
-//		"InGameOrder" "80"
 //		"ConsoleOnly" "1"
 //	}
 	"9"
@@ -116,9 +112,8 @@
 	}	
 	"15_1"
 	{
-		"label" "HALF-LIFE: SOURCE FIXED OPTIONS"
+		"label" "Half-Life: Source Fixed Options"
 		"command" "engine EnableHLSPanel"
-		"InGameOrder" "80"
 	}
 	"15"
 	{
