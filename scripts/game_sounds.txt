@@ -304,8 +304,8 @@
 
 	"rndwave"
 	{
-		"wave"		"player/footsteps/concrete1.wav"
-		"wave"		"player/footsteps/concrete3.wav"
+		"wave"		"player/pl_step1.wav"
+		"wave"		"player/pl_step3.wav"
 	}
 }
 
@@ -318,8 +318,8 @@
 
 	"rndwave"
 	{
-		"wave"		"player/footsteps/concrete2.wav"
-		"wave"		"player/footsteps/concrete4.wav"
+		"wave"		"player/pl_step2.wav"
+		"wave"		"player/pl_step4.wav"
 	}
 }
 
@@ -333,8 +333,8 @@
 
 	"rndwave"
 	{
-		"wave"		"player/footsteps/concrete1.wav"
-		"wave"		"player/footsteps/concrete3.wav"
+		"wave"		"player/pl_step1.wav"
+		"wave"		"player/pl_step3.wav"
 	}
 }
 
@@ -348,8 +348,8 @@
 
 	"rndwave"
 	{
-		"wave"		"player/footsteps/concrete2.wav"
-		"wave"		"player/footsteps/concrete4.wav"
+		"wave"		"player/pl_step2.wav"
+		"wave"		"player/pl_step4.wav"
 	}
 }
 
@@ -1343,6 +1343,8 @@
 	"rndwave"
 	{
 		"wave"		"agrunt/ag_die1.wav"
+		"wave"		"agrunt/ag_die2.wav"
+		"wave"		"agrunt/ag_die3.wav"
 		"wave"		"agrunt/ag_die4.wav"
 		"wave"		"agrunt/ag_die5.wav"
 	}
@@ -1388,6 +1390,9 @@
 		"wave"		"agrunt/ag_alert2.wav"
 		"wave"		"agrunt/ag_alert3.wav"
 		"wave"		"agrunt/ag_alert4.wav"
+		"wave"		"agrunt/alpha/ag_alert1.wav"
+		"wave"		"agrunt/alpha/ag_alert2.wav"
+		"wave"		"agrunt/alpha/ag_alert3.wav"
 	}
 }
 
@@ -2417,11 +2422,20 @@
 		"wave"		"scientist/sci_pain3.wav"
 		"wave"		"scientist/sci_pain4.wav"
 		"wave"		"scientist/sci_pain5.wav"
-		"wave"		"scientist/sci_pain6.wav"
-		"wave"		"scientist/sci_pain7.wav"
-		"wave"		"scientist/sci_pain8.wav"
-		"wave"		"scientist/sci_pain9.wav"
-		"wave"		"scientist/sci_pain10.wav"
+	}
+}
+"Scientist.Die"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"		"scientist/sci_die1.wav"
+		"wave"		"scientist/sci_die2.wav"
+		"wave"		"scientist/sci_die3.wav"
+		"wave"		"scientist/sci_die4.wav"
 	}
 }
 
@@ -3886,6 +3900,22 @@
 	}
 }
 
+"Player.Pain"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1"
+	"soundlevel"  "SNDLVL_75dB"
+
+	"rndwave"
+	{
+		"wave"	"player/pl_pain2.wav"
+		"wave"	"player/pl_pain4.wav"
+		"wave"	"player/pl_pain5.wav"
+		"wave"	"player/pl_pain6.wav"
+		"wave"	"player/pl_pain7.wav"
+	}
+}
+
 "Player.PlasmaDamage"
 {
 	"channel"	"CHAN_BODY"
@@ -3897,11 +3927,22 @@
 
 "Player.SonicDamage"
 {
-	"channel"	"CHAN_BODY"
+	"channel"	"CHAN_VOICE"
 	"volume"	"1.0"
 	"soundlevel"  "SNDLVL_75dB"
+	"pitch"		"140,160"
 
-	"wave"	"player/general/sonic_damage.wav"
+	"wave"	"weapons/electro4.wav"
+}
+
+"Player.ElectricDamage"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"  "SNDLVL_75dB"
+	"pitch"		"140,160"
+
+	"wave"	"weapons/electro4.wav"
 }
 
 "Player.DrownStart"

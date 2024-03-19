@@ -473,37 +473,21 @@
 
 		"WoodChunks"
 		{
-			"models\Gibs\wood_gib01e.mdl"	"1"
-			"models\Gibs\wood_gib01d.mdl"	"1"
-			"models\Gibs\wood_gib01c.mdl"	"1"
-			"models\Gibs\wood_gib01b.mdl"	"1"
-			"models\Gibs\wood_gib01a.mdl"	"1"
+			"models\woodgibs.mdl"	"1"
 		}
 		"GlassChunks"
 		{
-			"models\Gibs\Glass_shard01.mdl"	"1"
-			"models\Gibs\Glass_shard02.mdl"	"1"
-			"models\Gibs\Glass_shard03.mdl"	"1"
-			"models\Gibs\Glass_shard04.mdl"	"1"
-			"models\Gibs\Glass_shard05.mdl"	"1"
-			"models\Gibs\Glass_shard06.mdl"	"1"
+			"models\glassgibs.mdl"	"1"
 		}
 		"ConcreteChunks"
 		{
-			"models\props_debris\concrete_chunk08a.mdl"	"1"
-			"models\props_debris\concrete_chunk09a.mdl"	"1"
-			"models\props_debris\concrete_chunk03a.mdl"	"1"
-			"models\props_debris\concrete_chunk07a.mdl"	"1"
-			"models\props_debris\concrete_chunk09a.mdl"	"1"
-			"models\props_debris\concrete_chunk02a.mdl"	"1"
+			"models\concretegibs.mdl"	"1"
 		}
 		"MetalChunks"
 		{
-			"models\Gibs\metal_gib1.mdl"			"1"
-			"models\Gibs\metal_gib2.mdl"			"1"
-			"models\Gibs\metal_gib3.mdl"			"1"
-			"models\Gibs\metal_gib4.mdl"			"1"
-			"models\Gibs\metal_gib5.mdl"			"1"
+			"models\metalplategibs.mdl"			"1"
+			"models\mechgibs.mdl"			"1"
+			"models\ventgibs.mdl"			"1"
 		}
 		"ComputerGibs"
 		{
