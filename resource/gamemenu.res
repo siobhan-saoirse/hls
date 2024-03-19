@@ -47,7 +47,7 @@
 	}	
 	"6_1"
 	{
-		"label" "New Game - Resized Maps"
+		"label" "New game - Resized Maps"
 		"command" "engine EnableRMPanel"
 		"notmulti" "1"
 	}
